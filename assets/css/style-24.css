@@ -10,6 +10,14 @@
     object-fit: cover;
     object-position: center center;
 }
+
+.carousel .carousel-caption{
+    top: 50%;
+    bottom: auto;
+
+
+
+}
 .navbar{
     background-color: rgba(255, 255, 255, 0.5);
 }
